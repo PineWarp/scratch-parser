@@ -1,13 +1,13 @@
 {
   "name": "scratch-parser",
-  "description": "Parser for Bilup projects",
-  "author": "Bilup",
+  "description": "Parser for PineWarp projects",
+  "author": "PineWarp",
   "license": "MPL-2.0",
-  "homepage": "https://github.com/Bilup/scratch-parser#readme",
+  "homepage": "https://github.com/PineWarp/scratch-parser#readme",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Bilup/scratch-parser.git"
+    "url": "https://github.com/PineWarp/scratch-parser.git"
   },
   "scripts": {
     "test:lint": "eslint . --ext=js",
